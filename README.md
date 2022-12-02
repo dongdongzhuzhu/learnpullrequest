@@ -1,1 +1,1 @@
-# learnpullrequest 这是在main上
+# learnpullrequest 这是在bernard链上
